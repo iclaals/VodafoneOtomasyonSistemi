@@ -1,0 +1,64 @@
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\GorselProgramlamaVize.exe.config
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\GorselProgramlamaVize.exe
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\GorselProgramlamaVize.pdb
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.AssemblyReference.cache
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.SuggestedBindingRedirects.cache
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.AdminGirisi.resources
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.Properties.Resources.resources
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.GenerateResource.cache
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.CoreCompileInputs.cache
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.exe
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.pdb
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.Anasayfa.resources
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.hatAranacaklar.resources
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.hatBasvurular.resources
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.hatFaturaliFaturasiz.resources
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\EntityFramework.dll
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\EntityFramework.xml
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iclal\Desktop\3. Sınıf Görsel Progamlama\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.CopyComplete
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\GorselProgramlamaVize.exe.config
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\GorselProgramlamaVize.exe
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\GorselProgramlamaVize.pdb
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\EntityFramework.dll
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\EntityFramework.xml
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.AssemblyReference.cache
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.SuggestedBindingRedirects.cache
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.AdminGirisi.resources
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.Anasayfa.resources
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.hatAranacaklar.resources
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.hatBasvurular.resources
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.hatFaturaliFaturasiz.resources
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.Properties.Resources.resources
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.GenerateResource.cache
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.CoreCompileInputs.cache
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.CopyComplete
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.exe
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.pdb
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.evMusteriEkrani.resources
+C:\Users\boyut\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.AramaKaydi_Ekrani.resources
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\GorselProgramlamaVize.exe.config
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\GorselProgramlamaVize.exe
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\GorselProgramlamaVize.pdb
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\EntityFramework.dll
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\EntityFramework.xml
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.AssemblyReference.cache
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.SuggestedBindingRedirects.cache
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.AdminGirisi.resources
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.Anasayfa.resources
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.AramaKaydi_Ekrani.resources
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.evMusteriEkrani.resources
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.hatAranacaklar.resources
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.hatBasvurular.resources
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.hatFaturaliFaturasiz.resources
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.Properties.Resources.resources
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.GenerateResource.cache
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.CoreCompileInputs.cache
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.CopyComplete
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.exe
+C:\Users\oaalp\OneDrive\Masaüstü\GorselProgramlamaVize\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.pdb

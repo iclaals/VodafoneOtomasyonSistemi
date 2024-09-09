@@ -1,0 +1,268 @@
+﻿namespace GorselProgramlamaVize
+{
+    partial class hatAranacaklar
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(hatAranacaklar));
+            this.btnSil = new System.Windows.Forms.Button();
+            this.btnGuncelle = new System.Windows.Forms.Button();
+            this.btnListele = new System.Windows.Forms.Button();
+            this.btnTemizle = new System.Windows.Forms.Button();
+            this.btnEkle = new System.Windows.Forms.Button();
+            this.dgwMusteri = new System.Windows.Forms.DataGridView();
+            this.txtSoyad = new System.Windows.Forms.TextBox();
+            this.txtAd = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.mtxtTel = new System.Windows.Forms.MaskedTextBox();
+            ((System.ComponentModel.ISupportInitialize)(this.dgwMusteri)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // btnSil
+            // 
+            this.btnSil.BackColor = System.Drawing.Color.Transparent;
+            this.btnSil.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnSil.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnSil.ForeColor = System.Drawing.Color.Maroon;
+            this.btnSil.Location = new System.Drawing.Point(693, 466);
+            this.btnSil.Name = "btnSil";
+            this.btnSil.Size = new System.Drawing.Size(122, 39);
+            this.btnSil.TabIndex = 25;
+            this.btnSil.Text = "Sil";
+            this.btnSil.UseVisualStyleBackColor = false;
+            this.btnSil.Click += new System.EventHandler(this.btnSil_Click);
+            // 
+            // btnGuncelle
+            // 
+            this.btnGuncelle.BackColor = System.Drawing.Color.Transparent;
+            this.btnGuncelle.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnGuncelle.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnGuncelle.ForeColor = System.Drawing.Color.Maroon;
+            this.btnGuncelle.Location = new System.Drawing.Point(531, 467);
+            this.btnGuncelle.Name = "btnGuncelle";
+            this.btnGuncelle.Size = new System.Drawing.Size(122, 39);
+            this.btnGuncelle.TabIndex = 24;
+            this.btnGuncelle.Text = "Güncelle";
+            this.btnGuncelle.UseVisualStyleBackColor = false;
+            this.btnGuncelle.Click += new System.EventHandler(this.btnGuncelle_Click);
+            // 
+            // btnListele
+            // 
+            this.btnListele.BackColor = System.Drawing.Color.Transparent;
+            this.btnListele.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnListele.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnListele.ForeColor = System.Drawing.Color.Maroon;
+            this.btnListele.Location = new System.Drawing.Point(364, 466);
+            this.btnListele.Name = "btnListele";
+            this.btnListele.Size = new System.Drawing.Size(122, 39);
+            this.btnListele.TabIndex = 23;
+            this.btnListele.Text = "Listele";
+            this.btnListele.UseVisualStyleBackColor = false;
+            this.btnListele.Click += new System.EventHandler(this.btnListele_Click);
+            // 
+            // btnTemizle
+            // 
+            this.btnTemizle.BackColor = System.Drawing.Color.Transparent;
+            this.btnTemizle.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnTemizle.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnTemizle.ForeColor = System.Drawing.Color.Maroon;
+            this.btnTemizle.Location = new System.Drawing.Point(200, 466);
+            this.btnTemizle.Name = "btnTemizle";
+            this.btnTemizle.Size = new System.Drawing.Size(122, 39);
+            this.btnTemizle.TabIndex = 22;
+            this.btnTemizle.Text = "Temizle";
+            this.btnTemizle.UseVisualStyleBackColor = false;
+            this.btnTemizle.Click += new System.EventHandler(this.btnTemizle_Click);
+            // 
+            // btnEkle
+            // 
+            this.btnEkle.BackColor = System.Drawing.Color.Transparent;
+            this.btnEkle.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnEkle.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnEkle.ForeColor = System.Drawing.Color.Maroon;
+            this.btnEkle.Location = new System.Drawing.Point(28, 466);
+            this.btnEkle.Name = "btnEkle";
+            this.btnEkle.Size = new System.Drawing.Size(122, 39);
+            this.btnEkle.TabIndex = 21;
+            this.btnEkle.Text = "Ekle";
+            this.btnEkle.UseVisualStyleBackColor = false;
+            this.btnEkle.Click += new System.EventHandler(this.btnEkle_Click);
+            // 
+            // dgwMusteri
+            // 
+            this.dgwMusteri.BackgroundColor = System.Drawing.Color.Firebrick;
+            this.dgwMusteri.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgwMusteri.GridColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.dgwMusteri.Location = new System.Drawing.Point(12, 272);
+            this.dgwMusteri.Name = "dgwMusteri";
+            this.dgwMusteri.RowHeadersWidth = 51;
+            this.dgwMusteri.RowTemplate.Height = 24;
+            this.dgwMusteri.Size = new System.Drawing.Size(816, 177);
+            this.dgwMusteri.TabIndex = 20;
+            this.dgwMusteri.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgwMusteri_CellClick);
+            this.dgwMusteri.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgwMusteri_CellContentClick);
+            // 
+            // txtSoyad
+            // 
+            this.txtSoyad.Location = new System.Drawing.Point(345, 219);
+            this.txtSoyad.Name = "txtSoyad";
+            this.txtSoyad.Size = new System.Drawing.Size(158, 30);
+            this.txtSoyad.TabIndex = 18;
+            // 
+            // txtAd
+            // 
+            this.txtAd.Location = new System.Drawing.Point(66, 219);
+            this.txtAd.Name = "txtAd";
+            this.txtAd.Size = new System.Drawing.Size(158, 30);
+            this.txtAd.TabIndex = 17;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.BackColor = System.Drawing.Color.Transparent;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label4.ForeColor = System.Drawing.Color.Firebrick;
+            this.label4.Location = new System.Drawing.Point(564, 154);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(264, 36);
+            this.label4.TabIndex = 16;
+            this.label4.Text = "Telefon Numarası";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.BackColor = System.Drawing.Color.Transparent;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label3.ForeColor = System.Drawing.Color.Firebrick;
+            this.label3.Location = new System.Drawing.Point(368, 154);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(105, 36);
+            this.label3.TabIndex = 15;
+            this.label3.Text = "Soyad";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.Color.Transparent;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label2.ForeColor = System.Drawing.Color.Firebrick;
+            this.label2.Location = new System.Drawing.Point(116, 154);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(55, 36);
+            this.label2.TabIndex = 14;
+            this.label2.Text = "Ad";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label1.ForeColor = System.Drawing.Color.Firebrick;
+            this.label1.Location = new System.Drawing.Point(179, 20);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(663, 46);
+            this.label1.TabIndex = 13;
+            this.label1.Text = "Hat İçin Aranacaklar ve Sistemden";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.BackColor = System.Drawing.Color.Transparent;
+            this.label5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label5.ForeColor = System.Drawing.Color.Firebrick;
+            this.label5.Location = new System.Drawing.Point(276, 66);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(497, 46);
+            this.label5.TabIndex = 13;
+            this.label5.Text = "Hattına Onay Verilecekler";
+            // 
+            // mtxtTel
+            // 
+            this.mtxtTel.Location = new System.Drawing.Point(615, 219);
+            this.mtxtTel.Mask = "(999) 000-0000";
+            this.mtxtTel.Name = "mtxtTel";
+            this.mtxtTel.Size = new System.Drawing.Size(158, 30);
+            this.mtxtTel.TabIndex = 26;
+            // 
+            // hatAranacaklar
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 25F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(840, 531);
+            this.Controls.Add(this.mtxtTel);
+            this.Controls.Add(this.btnSil);
+            this.Controls.Add(this.btnGuncelle);
+            this.Controls.Add(this.btnListele);
+            this.Controls.Add(this.btnTemizle);
+            this.Controls.Add(this.btnEkle);
+            this.Controls.Add(this.dgwMusteri);
+            this.Controls.Add(this.txtSoyad);
+            this.Controls.Add(this.txtAd);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.label1);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(5);
+            this.Name = "hatAranacaklar";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "hatAranacaklar";
+            this.Load += new System.EventHandler(this.hatAranacaklar_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dgwMusteri)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Button btnSil;
+        private System.Windows.Forms.Button btnGuncelle;
+        private System.Windows.Forms.Button btnListele;
+        private System.Windows.Forms.Button btnTemizle;
+        private System.Windows.Forms.Button btnEkle;
+        private System.Windows.Forms.DataGridView dgwMusteri;
+        private System.Windows.Forms.TextBox txtSoyad;
+        private System.Windows.Forms.TextBox txtAd;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.MaskedTextBox mtxtTel;
+    }
+}
